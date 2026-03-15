@@ -15,8 +15,9 @@ Jupyter Notebook
 
 # Dataset
 The model uses the IDC Breast Cancer Histology Image Dataset, which contains labeled images of breast tissue:
+
 0 – Benign
 1 – Malignant
 
-#Dataset Source:
+# Dataset Source:
 https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
